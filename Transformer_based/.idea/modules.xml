@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HDTF-main/.idea/HDTF-main.iml" filepath="$PROJECT_DIR$/../HDTF-main/.idea/HDTF-main.iml" />
+      <module fileurl="file://D:/ai-anchor/code/Talking-Face_PC-AVS-main/.idea/Talking-Face_PC-AVS-main.iml" filepath="D:/ai-anchor/code/Talking-Face_PC-AVS-main/.idea/Talking-Face_PC-AVS-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Transformer-master/.idea/Transformer-master.iml" filepath="$PROJECT_DIR$/../Transformer-master/.idea/Transformer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Transformer_based.iml" filepath="$PROJECT_DIR$/.idea/Transformer_based.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Wav2Lip/.idea/Wav2Lip.iml" filepath="$PROJECT_DIR$/../Wav2Lip/.idea/Wav2Lip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Wav2Lip/.idea/Wav2Lip-master.iml" filepath="$PROJECT_DIR$/../Wav2Lip/.idea/Wav2Lip-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../syncnet_python-master/.idea/syncnet_python-master.iml" filepath="$PROJECT_DIR$/../syncnet_python-master/.idea/syncnet_python-master.iml" />
+    </modules>
+  </component>
+</project>
