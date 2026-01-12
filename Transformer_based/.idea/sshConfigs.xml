@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:60}" host="region-41.seetacloud.com" id="dbbd5138-7671-4290-991a-fbb6f4893297" port="46020" customName="ssh3" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="ssh3" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

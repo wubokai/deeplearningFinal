@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="99aced70-5904-487b-8f8f-44c215b80677" name="ssh">
+        <fileTransfer rootFolder="/data01/FL_Grp/BYDGL" accessType="SFTP" host="183.175.12.98" port="22" sshConfigId="fe6c9eb8-a9bb-489d-af70-e8842e6c8e44" sshConfig="BaoYDGL@183.175.12.98:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9f583aca-f438-4231-9f25-26230df7d61c" name="ssh2">
+        <fileTransfer rootFolder="/data01/FL_Grp/BYDGL" accessType="SFTP" host="183.175.12.98" port="22" sshConfigId="fe6c9eb8-a9bb-489d-af70-e8842e6c8e44" sshConfig="BaoYDGL@183.175.12.98:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3bbab3a6-5e98-4910-845f-d883275bd787" name="ssh3">
+        <fileTransfer accessType="SFTP" host="region-41.seetacloud.com" port="46020" sshConfigId="dbbd5138-7671-4290-991a-fbb6f4893297" sshConfig="ssh3">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
